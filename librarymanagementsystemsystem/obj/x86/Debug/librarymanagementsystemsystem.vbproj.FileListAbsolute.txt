@@ -1,0 +1,24 @@
+C:\Users\PStation\AppData\Local\Temporary Projects\librarymanagementsystemsystem\bin\Debug\LIBRARYDB.mdb
+C:\Users\PStation\AppData\Local\Temporary Projects\librarymanagementsystemsystem\bin\Debug\librarymanagementsystemsystem.exe.config
+C:\Users\PStation\AppData\Local\Temporary Projects\librarymanagementsystemsystem\bin\Debug\librarymanagementsystemsystem.exe
+C:\Users\PStation\AppData\Local\Temporary Projects\librarymanagementsystemsystem\bin\Debug\librarymanagementsystemsystem.pdb
+C:\Users\PStation\AppData\Local\Temporary Projects\librarymanagementsystemsystem\bin\Debug\librarymanagementsystemsystem.xml
+C:\Users\PStation\AppData\Local\Temporary Projects\librarymanagementsystemsystem\obj\x86\Debug\librarymanagementsystemsystem.Form1.resources
+C:\Users\PStation\AppData\Local\Temporary Projects\librarymanagementsystemsystem\obj\x86\Debug\librarymanagementsystemsystem.form2.resources
+C:\Users\PStation\AppData\Local\Temporary Projects\librarymanagementsystemsystem\obj\x86\Debug\librarymanagementsystemsystem.Resources.resources
+C:\Users\PStation\AppData\Local\Temporary Projects\librarymanagementsystemsystem\obj\x86\Debug\librarymanagementsystemsystem.vbproj.GenerateResource.Cache
+C:\Users\PStation\AppData\Local\Temporary Projects\librarymanagementsystemsystem\obj\x86\Debug\librarymanagementsystemsystem.exe
+C:\Users\PStation\AppData\Local\Temporary Projects\librarymanagementsystemsystem\obj\x86\Debug\librarymanagementsystemsystem.xml
+C:\Users\PStation\AppData\Local\Temporary Projects\librarymanagementsystemsystem\obj\x86\Debug\librarymanagementsystemsystem.pdb
+C:\Users\PStation\Desktop\Library Management System\librarymanagementsystemsystem\librarymanagementsystemsystem\bin\Debug\librarymanagementsystemsystem.exe.config
+C:\Users\PStation\Desktop\Library Management System\librarymanagementsystemsystem\librarymanagementsystemsystem\obj\x86\Debug\librarymanagementsystemsystem.exe
+C:\Users\PStation\Desktop\Library Management System\librarymanagementsystemsystem\librarymanagementsystemsystem\obj\x86\Debug\librarymanagementsystemsystem.xml
+C:\Users\PStation\Desktop\Library Management System\librarymanagementsystemsystem\librarymanagementsystemsystem\obj\x86\Debug\librarymanagementsystemsystem.pdb
+C:\Users\PStation\Desktop\Library Management System\librarymanagementsystemsystem\librarymanagementsystemsystem\bin\Debug\LIBRARYDB.mdb
+C:\Users\PStation\Desktop\Library Management System\librarymanagementsystemsystem\librarymanagementsystemsystem\bin\Debug\librarymanagementsystemsystem.exe
+C:\Users\PStation\Desktop\Library Management System\librarymanagementsystemsystem\librarymanagementsystemsystem\bin\Debug\librarymanagementsystemsystem.pdb
+C:\Users\PStation\Desktop\Library Management System\librarymanagementsystemsystem\librarymanagementsystemsystem\bin\Debug\librarymanagementsystemsystem.xml
+C:\Users\PStation\Desktop\Library Management System\librarymanagementsystemsystem\librarymanagementsystemsystem\obj\x86\Debug\librarymanagementsystemsystem.Form1.resources
+C:\Users\PStation\Desktop\Library Management System\librarymanagementsystemsystem\librarymanagementsystemsystem\obj\x86\Debug\librarymanagementsystemsystem.form2.resources
+C:\Users\PStation\Desktop\Library Management System\librarymanagementsystemsystem\librarymanagementsystemsystem\obj\x86\Debug\librarymanagementsystemsystem.Resources.resources
+C:\Users\PStation\Desktop\Library Management System\librarymanagementsystemsystem\librarymanagementsystemsystem\obj\x86\Debug\librarymanagementsystemsystem.vbproj.GenerateResource.Cache
